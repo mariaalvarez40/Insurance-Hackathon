@@ -1,34 +1,34 @@
-
-
 [
-    {
-      "question": "What types of insurance do you offer?",
-      "answer": "We offer a range of insurance products, including auto insurance, home insurance, life insurance, and health insurance."
-    },
-    {
-      "question": "How can I get a quote for insurance?",
-      "answer": "You can get a quote by visiting our website and filling out the online quote form. Alternatively, you can contact our sales team who will assist you in obtaining a quote."
-    },
-    {
-      "question": "What factors determine the cost of insurance?",
-      "answer": "Several factors influence the cost of insurance, such as your age, driving record (for auto insurance), location, coverage amount, and deductibles."
-    },
-    {
-      "question": "Can I bundle multiple insurance policies for discounts?",
-      "answer": "Yes, we offer discounts for bundling multiple insurance policies. Contact our sales team to learn more about the available discounts."
-    },
-    {
-      "question": "What is the claims process?",
-      "answer": "To file a claim, please contact our claims department either by phone or through our online claims portal. Our representatives will guide you through the process and assist you in filing the necessary paperwork."
-    },
-    {
-      "question": "Do you offer coverage for pre-existing conditions?",
-      "answer": "Coverage for pre-existing conditions may vary depending on the type of insurance and the specific policy. Please review the policy details or consult with our customer support team for more information."
-    },
-    {
-      "question": "How can I update my insurance policy?",
-      "answer": "To update your insurance policy, please contact our customer service team. They will assist you in making the necessary changes and provide guidance on any required documentation."
-    }
-
+  {
+    "question": "What is health insurance?",
+    "answer": "Health insurance is a type of insurance coverage that pays for medical and surgical expenses incurred by the insured. It helps protect individuals and families from high healthcare costs."
+  },
+  {
+    "question": "What does health insurance typically cover?",
+    "answer": "Health insurance typically covers a range of medical services, including doctor visits, hospital stays, prescription medications, preventive care, and some specialized treatments. The specific coverage details may vary depending on the policy."
+  },
+  {
+    "question": "Can I choose my healthcare provider with health insurance?",
+    "answer": "Health insurance policies often provide a network of healthcare providers. Depending on the policy, you may have the flexibility to choose healthcare providers within the network or go out-of-network at a potentially higher cost. Review your policy details for information on provider choices."
+  },
+  {
+    "question": "How do I apply for health insurance?",
+    "answer": "You can apply for health insurance through various methods, including through your employer if they offer a group plan, through government-sponsored programs like Medicaid or Medicare, or by purchasing a plan directly from an insurance provider or through the health insurance marketplace."
+  },
+  {
+    "question": "What is the open enrollment period?",
+    "answer": "The open enrollment period is a specific timeframe during which individuals can enroll in or make changes to their health insurance coverage. It is typically set annually and may have exceptions for qualifying life events that allow for special enrollment outside of the designated period."
+  },
+  {
+    "question": "What is a premium?",
+    "answer": "A premium is the amount of money you pay to the insurance company on a regular basis (often monthly) to maintain your health insurance coverage. It is separate from the out-of-pocket costs you may have when receiving medical services."
+  },
+  {
+    "question": "What are out-of-pocket costs?",
+    "answer": "Out-of-pocket costs are the expenses you are responsible for paying when receiving healthcare services. They can include deductibles, copayments, and coinsurance. Review your policy details to understand the specific out-of-pocket costs associated with your health insurance plan."
+  },
+  {
+    "question": "Can I get health insurance if I have a pre-existing condition?",
+    "answer": "Under current regulations, health insurance providers cannot deny coverage or charge higher premiums based on pre-existing conditions. You have the right to obtain health insurance coverage regardless of your medical history."
+  }
 ]
-    
