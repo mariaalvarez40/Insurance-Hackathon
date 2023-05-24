@@ -1,0 +1,34 @@
+[
+  {
+    "question": "What is health insurance?",
+    "answer": "Health insurance is a type of insurance coverage that pays for medical and surgical expenses incurred by the insured. It helps protect individuals and families from high healthcare costs."
+  },
+  {
+    "question": "What does health insurance typically cover?",
+    "answer": "Health insurance typically covers a range of medical services, including doctor visits, hospital stays, prescription medications, preventive care, and some specialized treatments. The specific coverage details may vary depending on the policy."
+  },
+  {
+    "question": "Can I choose my healthcare provider with health insurance?",
+    "answer": "Health insurance policies often provide a network of healthcare providers. Depending on the policy, you may have the flexibility to choose healthcare providers within the network or go out-of-network at a potentially higher cost. Review your policy details for information on provider choices."
+  },
+  {
+    "question": "How do I apply for health insurance?",
+    "answer": "You can apply for health insurance through various methods, including through your employer if they offer a group plan, through government-sponsored programs like Medicaid or Medicare, or by purchasing a plan directly from an insurance provider or through the health insurance marketplace."
+  },
+  {
+    "question": "What is the open enrollment period?",
+    "answer": "The open enrollment period is a specific timeframe during which individuals can enroll in or make changes to their health insurance coverage. It is typically set annually and may have exceptions for qualifying life events that allow for special enrollment outside of the designated period."
+  },
+  {
+    "question": "What is a premium?",
+    "answer": "A premium is the amount of money you pay to the insurance company on a regular basis (often monthly) to maintain your health insurance coverage. It is separate from the out-of-pocket costs you may have when receiving medical services."
+  },
+  {
+    "question": "What are out-of-pocket costs?",
+    "answer": "Out-of-pocket costs are the expenses you are responsible for paying when receiving healthcare services. They can include deductibles, copayments, and coinsurance. Review your policy details to understand the specific out-of-pocket costs associated with your health insurance plan."
+  },
+  {
+    "question": "Can I get health insurance if I have a pre-existing condition?",
+    "answer": "Under current regulations, health insurance providers cannot deny coverage or charge higher premiums based on pre-existing conditions. You have the right to obtain health insurance coverage regardless of your medical history."
+  }
+]
